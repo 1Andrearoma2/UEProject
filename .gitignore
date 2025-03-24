@@ -1,0 +1,49 @@
+# --- Cartelle di sistema Unreal ---
+DerivedDataCache/
+Intermediate/
+Saved/
+Binaries/
+Build/
+
+# --- File temporanei e di log ---
+*.log
+*.vs
+*.suo
+*.tmp
+*.cache
+*.obj
+*.pdb
+
+# --- Visual Studio / Rider / altri IDE ---
+.vscode/
+.idea/
+*.VC.db
+*.VC.opendb
+*.sdf
+*.opensdf
+*.db
+
+# --- File di sistema OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Backup temporanei ---
+*.bak
+*.backup
+*.old
+
+# --- Config locali di Unreal ---
+*.uprojectdirs
+
+# --- File di compilazione ---
+*.exe
+*.dll
+*.lib
+*.app
+*.dylib
+*.so
+
+# --- File di crash e dump ---
+*.dmp
+*.mdmp
